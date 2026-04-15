@@ -45,8 +45,6 @@ const SYSTEM_PATHS = [
   'modes/tracker.md',
   'modes/training.md',
   'modes/de/',
-  'CLAUDE.md',
-  'AGENTS.md',
   'generate-pdf.mjs',
   'merge-tracker.mjs',
   'verify-pipeline.mjs',
@@ -59,7 +57,7 @@ const SYSTEM_PATHS = [
   'dashboard/',
   'templates/',
   'fonts/',
-  '.claude/skills/',
+  '.github/',
   'docs/',
   'VERSION',
   'DATA_CONTRACT.md',
@@ -67,7 +65,6 @@ const SYSTEM_PATHS = [
   'README.md',
   'LICENSE',
   'CITATION.cff',
-  '.github/',
   'package.json',
 ];
 
